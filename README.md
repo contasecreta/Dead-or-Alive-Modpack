@@ -2,7 +2,9 @@
 
 Feito por Cadu :D
 
-# Instalação
+## Instalação
+
+- Para baixar os arquivos aqui no github vá em "<> Code" e clique em "Baixar zip"
 
 - Você deverá baixar o .zip e extraí-lo.
 
