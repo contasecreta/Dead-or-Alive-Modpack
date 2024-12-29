@@ -16,3 +16,10 @@ Feito por Cadu :D
 *alternativamente você pode colocar o pacote recursos (localizado na pasta "resourcepacks") dentro de uma pasta chamada resourcepacks na pasta do seu laucncher*
 
 | *o pacote de recursos é essencial para que a experiência de jogo faça sentido*
+
+
+## FAQ
+
+- Versão 1.20.1
+- Compatível com Shaders (Iris)
+- Server LNA (por enquanto)
