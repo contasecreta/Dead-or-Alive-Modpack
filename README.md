@@ -22,4 +22,4 @@ Feito por Cadu :D
 
 - Versão 1.20.1
 - Compatível com Shaders (Iris)
-- Server LNA (por enquanto)
+- Server LAN (por enquanto)
