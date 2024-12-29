@@ -12,7 +12,7 @@ Feito por Cadu :D
 
 - Instale os mods da pasta "mods" no launcher
 
-- E por fim, ao abrir o minecraft, em configurações e pacotes de recursos, abra os arquivos extraídos e coloque o arquivo "TZP 1.20.1" dentro de resourcepacks
+- E por fim, ao abrir o minecraft, em configurações e pacotes de recursos, abra os arquivos extraídos e coloque os arquivos que estão em "resourcepacks" da .zip dentro de resourcepacks da pasta aberta pelo jogo
 *alternativamente você pode colocar o pacote recursos (localizado na pasta "resourcepacks") dentro de uma pasta chamada resourcepacks na pasta do seu laucncher*
 
 | *o pacote de recursos é essencial para que a experiência de jogo faça sentido*
