@@ -24,4 +24,8 @@ Feito por Cadu :D
 - Compatível com Shaders (Iris)
 - Server LAN (por enquanto)
 
+
+
 ## CRIACAO DE MUNDO
+
+Para criar o mundo corretamente vá em mais opções, "Cities", selecione a de sua preferência (Recomendação: OnlyCities), então clique em "customize" e clique 2x em "standard", até que fique em "Kerdm_zombie_essentials:testWorld"
